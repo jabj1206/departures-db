@@ -1,0 +1,5 @@
+{
+  "departures":[
+    {"id": 0,"date": "2019-06-12","time": "19:34", "origin": "Houston, TX, 33619", "destiny": "Atlanta, GA, 30123","price": 250000,"quantity": 1}
+  ]
+}
